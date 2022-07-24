@@ -2,6 +2,7 @@
 
 Recipe application with custom recipe uploads.
 
+Live site: https://forkify-alan589.netlify.app
 
 ## How to run this project
 
